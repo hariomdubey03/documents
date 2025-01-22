@@ -1,2 +1,2 @@
 # documents
-sshpass hariomdubey
+sshpass -p hariomdubey
