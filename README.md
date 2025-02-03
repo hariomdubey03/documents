@@ -1,1 +1,49 @@
-# documents
+# AWS Credentials
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYzEXAMPLEKEY
+
+# Database Credentials
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_USER=admin
+DB_PASSWORD=supersecurepassword123
+
+# API Keys
+GOOGLE_API_KEY=AIzaSyA-DummyGoogleAPIKey1234567890
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Cryptographic Keys
+PRIVATE_KEY=-----BEGIN PRIVATE KEY-----
+MIIBVwIBADANBgkqhkiG9w0BAQEFAASCATswggE3AgEAAkEAt6i9aiOqgv...
+-----END PRIVATE KEY-----
+PUBLIC_KEY=-----BEGIN PUBLIC KEY-----
+MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALeovWojqoL7z1f9
+-----END PUBLIC KEY-----
+
+# OAuth Tokens
+GITHUB_TOKEN=ghp_12345exampletoken67890
+DROPBOX_ACCESS_TOKEN=sl.ABc12345FakeToken
+
+# SMTP Server Config
+SMTP_HOST=smtp.mailtrap.io
+SMTP_PORT=587
+SMTP_USER=user@example.com
+SMTP_PASSWORD=emailpassword123
+
+# Payment Processor Keys
+STRIPE_SECRET_KEY=sk_test_4eC39HqLyjWDarjtT1zdp7dc
+PAYPAL_CLIENT_ID=Acj12345DummyClientId
+PAYPAL_SECRET=EOX12345DummySecretKey
+
+# Third-Party Service Configurations
+TWILIO_ACCOUNT_SID=ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TWILIO_AUTH_TOKEN=your_auth_token_here
+SENDGRID_API_KEY=SG.12345DummyKey12345
+
+# Hardcoded Login Details
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=p@ssw0rd
+
+# Miscellaneous
+SSH_KEY=ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAsampleKey12345
+FTP_PASSWORD=ftpsecretpassword
